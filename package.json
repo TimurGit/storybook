@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "description": "ads",
   "keywords": [
-    "storybook-addons", "storybook-addons"
+    "storybook-addons",
+    "storybook-addons"
   ],
   "repository": {
     "type": "git",
@@ -68,6 +69,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "storybook": "0.0.0-pr-26654-sha-49d01553",
+    "storybook-addon-tailwind-autodocs": "^1.0.8",
     "tsup": "^8.2.4",
     "typescript": "^5.5.4",
     "vite": "^5.3.5",
